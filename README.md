@@ -1,4 +1,4 @@
-# Simple Wordle Game
+# Wordle Game
 
 A basic Wordle game built with **TypeScript**, **HTML**, and **CSS**, packaged as a desktop app using **Electron**.
 
