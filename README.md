@@ -14,7 +14,7 @@ A basic Wordle game built with **TypeScript**, **HTML**, and **CSS**, packaged a
 
 ## Releases
 
-You can download the Windows `.exe` file from the [Releases](https://github.com/yourusername/wordle-game/releases) section.
+You can download the Windows `.exe` file from the [Releases](https://github.com/Deniz451/WordleGame/releases) section.
 
 ## Installation
 
