@@ -1,24 +1,32 @@
-# New Project
+# Simple Wordle Game
 
-> ✨ Bootstrapped with Create Snowpack App (CSA).
+A basic Wordle game built with **TypeScript**, **HTML**, and **CSS**, packaged as a desktop app using **Electron**.
 
-## Available Scripts
+## Features
+- Simple Wordle gameplay.
+- Electron app available for Windows (`.exe` file in the Releases section).
 
-### npm start
+## Repository
 
-Runs the app in the development mode.
-Open http://localhost:8080 to view it in the browser.
+- **/src** - Source code in TypeScript.
+- **/public** - HTML and CSS files.
+- **main.js** - Electron entry point.
 
-The page will reload if you make edits.
-You will also see any lint errors in the console.
+## Releases
 
-### npm run build
+You can download the Windows `.exe` file from the [Releases](https://github.com/yourusername/wordle-game/releases) section.
 
-Builds a static copy of your site to the `build/` folder.
-Your app is ready to be deployed!
+## Installation
 
-**For the best production performance:** Add a build bundler plugin like [@snowpack/plugin-webpack](https://github.com/snowpackjs/snowpack/tree/main/plugins/plugin-webpack) or [snowpack-plugin-rollup-bundle](https://github.com/ParamagicDev/snowpack-plugin-rollup-bundle) to your `snowpack.config.mjs` config file.
+To run the game from source:
+1. Clone the repo:
+   ```
+   git clone https://github.com/Deniz451/WordleGame
 
-### Q: What about Eject?
+2. Install dependencies:
+     ```
+    npm install
 
-No eject needed! Snowpack guarantees zero lock-in, and CSA strives for the same.
+3. Run the development server:
+      ```
+    npm start
